@@ -1,0 +1,30 @@
+_repo: La-guerra-dei-pirati-e-la-marina-pontificia-dal-1500-al-1560-vol.-2_45566
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45566-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Guglielmotti, Alberto P.
+    birthdate: 1812
+    deathdate: 1893
+    gutenberg_agent_id: '43356'
+    url: http://www.gutenberg.org/2009/agents/43356
+description: ''
+gutenberg_bookshelf: IT Storia
+gutenberg_issued: '2014-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45566'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Africa, North -- History'
+- !lcsh 'Papal States -- Navy'
+- !lcsh 'Pirates'
+- !lcsh 'Papal States -- History'
+- !lcc 'DG'
+title: La guerra dei pirati e la marina pontificia dal 1500 al 1560, vol. 2
+url: http://www.gutenberg.org/ebooks/45566
